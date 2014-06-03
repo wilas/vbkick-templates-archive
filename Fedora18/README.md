@@ -6,7 +6,7 @@ Fedora 18 [vbkick](https://github.com/wilas/vbkick) template. Help creates Vagra
 
 ### change definition (change the target of a symlink)
 ```
-    ln -fs definition-18-x86_64-desktop.cfg definition.cfg
+    ln -fs vbmachine-18-x86_64-desktop.cfg vbmachine.cfg
 ```
 
 ### create new vagrant base box
